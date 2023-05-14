@@ -1,0 +1,3 @@
+# Repositorio de preguntas de "conocimientos relevantes" para un front end dev
+
+Este repositorio contiene preguntas de un formulario de "evaluación" para el ingreso como frontend en alguna empresa. Cabe destacar que los archivos aquí incluidos cuentan con preguntas, 'caja de arena', y desarrollo de respuestas con información relevante para las respuestas de algunas de las preguntas menos convencionales.
